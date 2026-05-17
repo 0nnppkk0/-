@@ -1,0 +1,1618 @@
+{
+    "nodes": [
+        {
+            "attributes": {
+            },
+            "id": "1",
+            "name": "Мясо",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 784,
+            "position_y": 1417
+        },
+        {
+            "attributes": {
+            },
+            "id": "2",
+            "name": "Мясной продукт",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 682,
+            "position_y": 2229
+        },
+        {
+            "attributes": {
+            },
+            "id": "3",
+            "name": "Мясо птицы",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1163,
+            "position_y": 1841
+        },
+        {
+            "attributes": {
+            },
+            "id": "5",
+            "name": "Курятина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1570,
+            "position_y": 1707
+        },
+        {
+            "attributes": {
+            },
+            "id": "9",
+            "name": "Индюшатина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1568,
+            "position_y": 1891
+        },
+        {
+            "attributes": {
+            },
+            "id": "13",
+            "name": "Субпродукты",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1158,
+            "position_y": 2161
+        },
+        {
+            "attributes": {
+            },
+            "id": "15",
+            "name": "Полуфабрикаты",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1173,
+            "position_y": 2367
+        },
+        {
+            "attributes": {
+            },
+            "id": "27",
+            "name": "Говядина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1166,
+            "position_y": 189
+        },
+        {
+            "attributes": {
+            },
+            "id": "29",
+            "name": "Баранина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1158,
+            "position_y": 1271
+        },
+        {
+            "attributes": {
+            },
+            "id": "31",
+            "name": "Свинина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1162,
+            "position_y": 1066
+        },
+        {
+            "attributes": {
+            },
+            "id": "33",
+            "name": "Конина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1162,
+            "position_y": 495
+        },
+        {
+            "attributes": {
+            },
+            "id": "37",
+            "name": "Белковые продукты",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 397,
+            "position_y": 2134
+        },
+        {
+            "attributes": {
+            },
+            "id": "40",
+            "name": "Яйцо",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 738,
+            "position_y": 2486
+        },
+        {
+            "attributes": {
+            },
+            "id": "42",
+            "name": "Молочные продукты",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 726,
+            "position_y": 2687
+        },
+        {
+            "attributes": {
+            },
+            "id": "44",
+            "name": "Молоко",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1202,
+            "position_y": 2616
+        },
+        {
+            "attributes": {
+            },
+            "id": "46",
+            "name": "Продукты на основе молока",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1651,
+            "position_y": 4664
+        },
+        {
+            "attributes": {
+            },
+            "id": "48",
+            "name": "Сливки",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2086,
+            "position_y": 4670
+        },
+        {
+            "attributes": {
+            },
+            "id": "50",
+            "name": "Сливочное масло",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2384,
+            "position_y": 4757
+        },
+        {
+            "attributes": {
+            },
+            "id": "51",
+            "name": "Продукты молочнокислого брожжения",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1635,
+            "position_y": 4214
+        },
+        {
+            "attributes": {
+            },
+            "id": "53",
+            "name": "Кисломолочные продукты",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1172,
+            "position_y": 3472
+        },
+        {
+            "attributes": {
+            },
+            "id": "56",
+            "name": "Простокваша",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2069,
+            "position_y": 4467
+        },
+        {
+            "attributes": {
+            },
+            "id": "58",
+            "name": "Ряженка",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2050,
+            "position_y": 4356
+        },
+        {
+            "attributes": {
+            },
+            "id": "60",
+            "name": "Сметана",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2042,
+            "position_y": 4220
+        },
+        {
+            "attributes": {
+            },
+            "id": "62",
+            "name": "Продукты смешанного брожжения",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1611,
+            "position_y": 3875
+        },
+        {
+            "attributes": {
+            },
+            "id": "64",
+            "name": "Кефир",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2016,
+            "position_y": 3920
+        },
+        {
+            "attributes": {
+            },
+            "id": "66",
+            "name": "Кумыс",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2047,
+            "position_y": 4118
+        },
+        {
+            "attributes": {
+            },
+            "id": "68",
+            "name": "Продукты с термофильными культурами",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1577,
+            "position_y": 3509
+        },
+        {
+            "attributes": {
+            },
+            "id": "70",
+            "name": "Йогурт",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2010,
+            "position_y": 3475
+        },
+        {
+            "attributes": {
+            },
+            "id": "72",
+            "name": "Творог",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2012,
+            "position_y": 3738
+        },
+        {
+            "attributes": {
+            },
+            "id": "74",
+            "name": "Сыры",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1204,
+            "position_y": 2924
+        },
+        {
+            "attributes": {
+            },
+            "id": "76",
+            "name": "Плавленый сыр",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1584,
+            "position_y": 2930
+        },
+        {
+            "attributes": {
+            },
+            "id": "78",
+            "name": "Сыр",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1602,
+            "position_y": 3024
+        },
+        {
+            "attributes": {
+            },
+            "id": "80",
+            "name": "Кондитерские изделия",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2498,
+            "position_y": 2098
+        },
+        {
+            "attributes": {
+            },
+            "id": "81",
+            "name": "Сахаристые кондитерские изделия",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2827,
+            "position_y": 1822
+        },
+        {
+            "attributes": {
+            },
+            "id": "84",
+            "name": "Пастила, зефир",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3269,
+            "position_y": 1913
+        },
+        {
+            "attributes": {
+            },
+            "id": "85",
+            "name": "Мармелад",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3299,
+            "position_y": 2062
+        },
+        {
+            "attributes": {
+            },
+            "id": "90",
+            "name": "Печенье",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3294,
+            "position_y": 2241
+        },
+        {
+            "attributes": {
+            },
+            "id": "92",
+            "name": "Мучные кондитерские изделия",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2857,
+            "position_y": 2287
+        },
+        {
+            "attributes": {
+            },
+            "id": "97",
+            "name": "Сложные, многокомпонентные кондитерские изделия",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2872,
+            "position_y": 3206
+        },
+        {
+            "attributes": {
+            },
+            "id": "99",
+            "name": "Торт",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3328,
+            "position_y": 3151
+        },
+        {
+            "attributes": {
+            },
+            "id": "100",
+            "name": "Пирог",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3348,
+            "position_y": 2726
+        },
+        {
+            "attributes": {
+            },
+            "id": "104",
+            "name": "Сиропообразные вещества",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2846,
+            "position_y": 1386
+        },
+        {
+            "attributes": {
+            },
+            "id": "106",
+            "name": "Мед",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3270,
+            "position_y": 1391
+        },
+        {
+            "attributes": {
+            },
+            "id": "108",
+            "name": "Замороженные кондитерские изделия",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2972,
+            "position_y": 4469
+        },
+        {
+            "attributes": {
+            },
+            "id": "110",
+            "name": "Мороженое",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3380,
+            "position_y": 4470
+        },
+        {
+            "attributes": {
+            },
+            "id": "112",
+            "name": "Какао",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3381,
+            "position_y": 4283
+        },
+        {
+            "attributes": {
+            },
+            "id": "114",
+            "name": "Шоколад",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3359,
+            "position_y": 3900
+        },
+        {
+            "attributes": {
+            },
+            "id": "116",
+            "name": "Кондитерские изделия на основе какао-бобов",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2932,
+            "position_y": 3917
+        },
+        {
+            "attributes": {
+            },
+            "id": "120",
+            "name": "Зайчатина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1596,
+            "position_y": 1356
+        },
+        {
+            "attributes": {
+            },
+            "id": "123",
+            "name": "Козлятина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1155,
+            "position_y": 844
+        },
+        {
+            "attributes": {
+            },
+            "id": "126",
+            "name": "Мягкий сыр",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 2016,
+            "position_y": 3040
+        },
+        {
+            "attributes": {
+            },
+            "id": "135",
+            "name": "Пирожное",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3347,
+            "position_y": 3686
+        },
+        {
+            "attributes": {
+            },
+            "id": "138",
+            "name": "Пряник",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3319,
+            "position_y": 2512
+        },
+        {
+            "attributes": {
+            },
+            "id": "140",
+            "name": "Мясо дичи",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1164,
+            "position_y": 1485
+        },
+        {
+            "attributes": {
+            },
+            "id": "141",
+            "name": "Мясо дикого кабана",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1567,
+            "position_y": 1598
+        },
+        {
+            "attributes": {
+            },
+            "id": "144",
+            "name": "Оленина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1604,
+            "position_y": 1494
+        },
+        {
+            "attributes": {
+            },
+            "id": "146",
+            "name": "Телятина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1158,
+            "position_y": 687
+        },
+        {
+            "attributes": {
+            },
+            "id": "149",
+            "name": "Карамельные изделия",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3265,
+            "position_y": 1736
+        },
+        {
+            "attributes": {
+            },
+            "id": "151",
+            "name": "Паста",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3254,
+            "position_y": 1210
+        },
+        {
+            "attributes": {
+            },
+            "id": "153",
+            "name": "Сироп",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3275,
+            "position_y": 1570
+        },
+        {
+            "attributes": {
+            },
+            "id": "155",
+            "name": "Сорбет",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3396,
+            "position_y": 4660
+        },
+        {
+            "attributes": {
+            },
+            "id": "157",
+            "name": "Лед",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3400,
+            "position_y": 4564
+        },
+        {
+            "attributes": {
+            },
+            "id": "161",
+            "name": "Заменители мяса",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 707,
+            "position_y": 2007
+        },
+        {
+            "attributes": {
+            },
+            "id": "163",
+            "name": "Тофу",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 1166,
+            "position_y": 2011
+        },
+        {
+            "attributes": {
+            },
+            "id": "165",
+            "name": "Рыбная продукция",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4209,
+            "position_y": 2088
+        },
+        {
+            "attributes": {
+            },
+            "id": "166",
+            "name": "Морская рыба",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4894,
+            "position_y": 1932
+        },
+        {
+            "attributes": {
+            },
+            "id": "168",
+            "name": "Речная рыба",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4910,
+            "position_y": 2524
+        },
+        {
+            "attributes": {
+            },
+            "id": "170",
+            "name": "Сиг",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5276,
+            "position_y": 2845
+        },
+        {
+            "attributes": {
+            },
+            "id": "172",
+            "name": "Окунь",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5276,
+            "position_y": 2744
+        },
+        {
+            "attributes": {
+            },
+            "id": "174",
+            "name": "Форель",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5258,
+            "position_y": 2625
+        },
+        {
+            "attributes": {
+            },
+            "id": "176",
+            "name": "Щука",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5251,
+            "position_y": 2478
+        },
+        {
+            "attributes": {
+            },
+            "id": "178",
+            "name": "Анчоусы",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5232,
+            "position_y": 1776
+        },
+        {
+            "attributes": {
+            },
+            "id": "180",
+            "name": "Камбала",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5235,
+            "position_y": 1831
+        },
+        {
+            "attributes": {
+            },
+            "id": "182",
+            "name": "Лосось",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5238,
+            "position_y": 1890
+        },
+        {
+            "attributes": {
+            },
+            "id": "184",
+            "name": "Минтай",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5259,
+            "position_y": 1945
+        },
+        {
+            "attributes": {
+            },
+            "id": "186",
+            "name": "Палтус",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5259,
+            "position_y": 1997
+        },
+        {
+            "attributes": {
+            },
+            "id": "188",
+            "name": "Рыбные палочки",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4851,
+            "position_y": 1585
+        },
+        {
+            "attributes": {
+            },
+            "id": "191",
+            "name": "Сардина",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5257,
+            "position_y": 2069
+        },
+        {
+            "attributes": {
+            },
+            "id": "193",
+            "name": "Треска",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5254,
+            "position_y": 2369
+        },
+        {
+            "attributes": {
+            },
+            "id": "195",
+            "name": "Тунец",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5256,
+            "position_y": 2148
+        },
+        {
+            "attributes": {
+            },
+            "id": "197",
+            "name": "Хек",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5260,
+            "position_y": 2259
+        },
+        {
+            "attributes": {
+            },
+            "id": "199",
+            "name": "Морепродукты, ракообразные и моллюски",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4546,
+            "position_y": 3023
+        },
+        {
+            "attributes": {
+            },
+            "id": "201",
+            "name": "Мидии",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4940,
+            "position_y": 3434
+        },
+        {
+            "attributes": {
+            },
+            "id": "203",
+            "name": "Кальмары",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4927,
+            "position_y": 3282
+        },
+        {
+            "attributes": {
+            },
+            "id": "205",
+            "name": "Креветки",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4921,
+            "position_y": 3177
+        },
+        {
+            "attributes": {
+            },
+            "id": "209",
+            "name": "Омар",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4918,
+            "position_y": 3012
+        },
+        {
+            "attributes": {
+            },
+            "id": "211",
+            "name": "Крабовые палочки",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4851,
+            "position_y": 1330
+        },
+        {
+            "attributes": {
+            },
+            "id": "212",
+            "name": "Рыбные продукты",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4416,
+            "position_y": 1654
+        },
+        {
+            "attributes": {
+            },
+            "id": "217",
+            "name": "Сельдь",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 5262,
+            "position_y": 2431
+        },
+        {
+            "attributes": {
+            },
+            "id": "223",
+            "name": "Джем",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 3234,
+            "position_y": 1064
+        },
+        {
+            "attributes": {
+            },
+            "id": "225",
+            "name": "Рыба",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "position_x": 4425,
+            "position_y": 2093
+        }
+    ],
+    "relations": [
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "4",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "3"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "3",
+            "id": "6",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "5"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "3",
+            "id": "10",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "9"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "2",
+            "id": "14",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "13"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "2",
+            "id": "16",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "15"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "28",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "27"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "30",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "29"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "32",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "31"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "34",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "33"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "38",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "2"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "39",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "1"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "41",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "40"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "43",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "42"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "42",
+            "id": "45",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "44"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "42",
+            "id": "47",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "46"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "46",
+            "id": "49",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "48"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "46",
+            "id": "52",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "50"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "42",
+            "id": "54",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "53"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "53",
+            "id": "55",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "51"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "51",
+            "id": "57",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "56"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "51",
+            "id": "59",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "58"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "51",
+            "id": "61",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "60"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "53",
+            "id": "63",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "62"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "62",
+            "id": "65",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "64"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "62",
+            "id": "67",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "66"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "53",
+            "id": "69",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "68"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "68",
+            "id": "71",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "70"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "68",
+            "id": "73",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "72"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "42",
+            "id": "75",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "74"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "74",
+            "id": "77",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "76"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "74",
+            "id": "79",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "78"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "80",
+            "id": "82",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "81"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "81",
+            "id": "88",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "85"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "81",
+            "id": "89",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "84"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "80",
+            "id": "93",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "92"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "92",
+            "id": "94",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "90"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "80",
+            "id": "98",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "97"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "97",
+            "id": "102",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "99"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "80",
+            "id": "105",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "104"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "104",
+            "id": "107",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "106"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "80",
+            "id": "109",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "108"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "108",
+            "id": "111",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "110"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "80",
+            "id": "117",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "116"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "116",
+            "id": "118",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "114"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "116",
+            "id": "119",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "112"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "124",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "123"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "78",
+            "id": "127",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "126"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "97",
+            "id": "136",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "135"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "92",
+            "id": "139",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "138"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "140",
+            "id": "142",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "143",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "140"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "140",
+            "id": "145",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "144"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "148",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "146"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "81",
+            "id": "150",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "149"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "104",
+            "id": "152",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "151"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "104",
+            "id": "154",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "153"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "108",
+            "id": "156",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "155"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "108",
+            "id": "158",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "157"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "161",
+            "id": "164",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "163"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "168",
+            "id": "171",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "170"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "168",
+            "id": "173",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "172"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "168",
+            "id": "175",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "174"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "168",
+            "id": "177",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "176"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "179",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "178"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "181",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "180"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "183",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "182"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "185",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "184"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "187",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "186"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "192",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "191"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "194",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "193"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "196",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "195"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "198",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "197"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "165",
+            "id": "200",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "199"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "199",
+            "id": "202",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "201"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "199",
+            "id": "204",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "203"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "199",
+            "id": "206",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "205"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "199",
+            "id": "210",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "209"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "212",
+            "id": "213",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "188"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "212",
+            "id": "214",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "211"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "165",
+            "id": "215",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "212"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "92",
+            "id": "219",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "100"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "140",
+            "id": "220",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "120"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "37",
+            "id": "221",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "161"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "166",
+            "id": "222",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "217"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "104",
+            "id": "224",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "223"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "225",
+            "id": "226",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "166"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "225",
+            "id": "227",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "168"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "165",
+            "id": "228",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1747770390142",
+            "source_node_id": "225"
+        }
+    ],
+    "visualize_ont_path": ""
+}
