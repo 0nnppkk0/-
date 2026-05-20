@@ -40,3 +40,5 @@ OUTPUT_DIR = "..."
 ONT_PATH = r"C:\path\to\document.ont"
 EXCEL_PATH = r"C:\path\to\document.xlsx"
 OUTPUT_DIR = r"C:\path\to\output"
+
+В версии выше 5, вводить путь не нужно
